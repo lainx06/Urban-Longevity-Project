@@ -30,7 +30,7 @@ Urban Longevity is an MVP dashboard that allows NYC planners to:
 ## ⚙️ Installation & Setup
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/urban-longevity.git](https://github.com/your-username/urban-longevity.git)
+   git clone [https://github.com/lainx06/urban-longevity.git](https://github.com/lainx06/urban-longevity.git)
    cd urban-longevity
 
 2. **Install dependencies:**
